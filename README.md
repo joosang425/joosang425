@@ -19,7 +19,6 @@
 <br />
 
 <h5>📁 Projects</h5>
-[화상회의 플랫폼(수정 필요) (https://github.com/joosang425/zoomclone)]
 
 <br />
 

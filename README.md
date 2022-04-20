@@ -23,6 +23,7 @@
 <br />
 
 <h5>📑 Study</h5>
+<li>[알고리즘 공부](https://github.com/joosang425/Algorithm)</li>
 
 <br />
 <br />

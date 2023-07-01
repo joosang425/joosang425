@@ -20,6 +20,8 @@
 
 <h5>📁 Projects</h5>
 
+- [StarBucks 랜딩 페이지](https://github.com/joosang425/Starbucks)
+
 <br />
 
 <h5>📑 Study</h5>

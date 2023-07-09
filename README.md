@@ -19,15 +19,15 @@
 <br />
 
 <h5>📁 Projects</h5>
+
 - [StarBucks 랜딩 페이지](https://github.com/joosang425/Starbucks)
 - [Vue3 영화 웹 사이트](https://github.com/joosang425/vue3-movie-app)
-<br />
 
 <h5>📑 Study</h5>
 
 - [알고리즘 공부](https://github.com/joosang425/Algorithm/)
+- [정규표현식](https://github.com/joosang425/RegExp)
 
-<br />
 <br />
 
 ![JooSang's GitHub stats](https://github-readme-stats.vercel.app/api?username=joosang425&show_icons=true&theme=gruvbox)

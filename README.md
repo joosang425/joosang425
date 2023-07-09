@@ -19,9 +19,8 @@
 <br />
 
 <h5>📁 Projects</h5>
-
 - [StarBucks 랜딩 페이지](https://github.com/joosang425/Starbucks)
-
+- [Vue3 영화 웹 사이트](https://github.com/joosang425/vue3-movie-app)
 <br />
 
 <h5>📑 Study</h5>

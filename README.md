@@ -24,6 +24,7 @@
 - [Vue3 영화 웹 사이트](https://github.com/joosang425/vue3-movie-app)
 - [Svelte Todo 페이지](https://github.com/joosang425/svelte-todo-app)
 - [React 예산 책정 페이지](https://github.com/joosang425/react-budget-app)
+- [React + Typescript 포켓몬 도감 페이지](https://github.com/joosang425/react-poke-app)
 
 <h5>📑 Study</h5>
 

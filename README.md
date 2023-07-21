@@ -25,6 +25,7 @@
 - [Svelte Todo 페이지](https://github.com/joosang425/svelte-todo-app)
 - [React 예산 책정 페이지](https://github.com/joosang425/react-budget-app)
 - [React + Typescript 포켓몬 도감 페이지](https://github.com/joosang425/react-poke-app)
+- [React + Typescript 쇼핑몰 페이지](https://github.com/joosang425/react-shop-app)
 
 <h5>📑 Study</h5>
 

@@ -27,6 +27,7 @@
 - [React + Typescript 포켓몬 도감 페이지](https://github.com/joosang425/react-poke-app)
 - [React + Typescript 쇼핑몰 페이지](https://github.com/joosang425/react-shop-app)
 - [Spring 게시판 페이지](https://github.com/joosang425/board-project)
+- [Spring 어드민 게시판 페이지](https://github.com/joosang425/board-project-admin)
 
 <h5>📑 Study</h5>
 
